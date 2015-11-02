@@ -1,4 +1,4 @@
-# IrisDarkv2
+# Iris Dark V2 Theme
 All rights go to http://thevirtualdragon.deviantart.com/art/Iris-Dark-Gtk-Theme-v1-9-5-429628194
 
 This is an improved version for Gnome shell version GNOME Shell 3.14.4
